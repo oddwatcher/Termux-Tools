@@ -1,3 +1,4 @@
+#!/bin/python
 import pkg_resources
 from subprocess import call
 
